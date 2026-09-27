@@ -47,7 +47,3 @@
     <img src="https://www.codewars.com/users/KyryloMuzychka/badges/large" alt="codewars">
   </a>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzychka20" alt="top languages" width="400">
-</p>
