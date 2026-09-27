@@ -2,9 +2,11 @@
 
 <h3 align="center">I'm Kyrylo, a Software Engineer from Ukraine.</h3>
 
-<p>Passionate about creating high-quality web solutions using Python and React. My approach combines a problem-solving mindset with a commitment to delivering effective, user-friendly results.</p>
+<p>Passionate about creating high-quality web solutions using Python, React, and .NET. My approach combines a problem-solving mindset with a commitment to delivering effective, user-friendly results.</p>
 
-<p>Driven by a desire to learn, grow, and contribute to meaningful projects, I enjoy tackling complex problems and refining my skills with each project I undertake. Valuing both innovation and quality, I’m eager to continue expanding my expertise while delivering reliable and efficient software.</p>
+<p>In previous roles, I've been responsible for deploying and maintaining production services, ensuring smooth releases and stable operation in live environments. I've also worked extensively on supporting and evolving a CRM system, handling day-to-day maintenance while continuously adding new features based on business and user needs — experience that sharpened my ability to work within existing codebases and balance new development with system stability.</p>
+
+<p>Driven by a desire to learn, grow, and contribute to meaningful projects, I enjoy tackling complex problems and refining my skills with each project I undertake. Valuing both innovation and quality, I'm eager to continue expanding my expertise while delivering reliable and efficient software.</p>
 
 <h3 align="left">🙌 Socials</h3>
 
