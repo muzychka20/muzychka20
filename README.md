@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-<h3 align="center">I'm Kyrylo, a Software Engineer from Ukraine.</h3>
+<h3 align="center">I'm Kyrylo, a Software Engineer</h3>
 
 <p>Passionate about building thoughtful, reliable, and user-focused digital solutions. My approach combines a problem-solving mindset with a commitment to delivering effective, high-quality results.</p>
 
